@@ -125,7 +125,7 @@ def getIndex(df, maxlen, file):
             tmp.append(char_index["END"])
         X.append(tmp)
 
-        if str(gender[i]) == 'Boy' or str(gender[i]).lower()=='male':
+        if str(gender[i]) == 'Boy' or str(gender[i]).lower()=='male' or gender[i] == 1.0:
             Y.append([1,0])
         else:
             Y.append([0,1])
