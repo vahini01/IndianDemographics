@@ -21,8 +21,16 @@ DELHI_CSV = "../DataSets/ElectoralRollsData/MergedCSV/delhi.csv"
 SIKKIM_CSV = "../DataSets/ElectoralRollsData/MergedCSV/sikkim.csv"
 GOA_CSV = "../DataSets/ElectoralRollsData/MergedCSV/goa.csv"
 MIZORAM_CSV = "../DataSets/ElectoralRollsData/MergedCSV/mizoram.csv"
+
+CBSE_2014 = "Models/Data/CBSEData/2014_complete_data.csv"
+CBSE_2015 = "Models/Data/CBSEData/2015_complete_data.csv"
 CBSE_NO_DUP = "../DataSets/CBSEData/cbse_gender_names_list.csv"
 CBSE = "../DataSets/CBSEData/cbse_data_with_duplicates.csv"
+
+def CBSEData():
+  cbse_14 = pd.read_csv(CBSE_2014)
+  cbse_15 = pd.read_csv(CBSE_2015)
+  
 
 def getCBSEData(dup):
     if dup:
