@@ -42,8 +42,8 @@ def dropDuplicates(df):
   return df
 
 def CBSEData():
-  cbse14 = pd.read_csv(CBSE_2014)
-  cbse15 = pd.read_csv(CBSE_2015)
+  cbse14 = pd.read_csv(CBSE_2014, dtype=object)
+  cbse15 = pd.read_csv(CBSE_2015, dtype=object)
   c14 = processDf(getParentsData(cbse14))
   c15 = processDf(getParentsData(cbse15))
   cbse = pd.concat([c14, c15], ignore_index=True)
