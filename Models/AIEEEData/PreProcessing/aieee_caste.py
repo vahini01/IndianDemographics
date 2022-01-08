@@ -3,6 +3,7 @@ import numpy as np
 import re
 from sklearn.model_selection import train_test_split
 
+
 AIEEE_2009_CSV = "Models/Data/AIEEEData/aieee_2009.csv"
 AIEEE_2010_CSV = "Models/Data/AIEEEData/aieee_2010.csv"
 AIEEE_2011_CSV = "Models/Data/AIEEEData/aieee_2011.csv"
@@ -17,6 +18,45 @@ def getCaste(df, col):
   caste_df['Caste'] = df1[col]
   return caste_df
 
+def processDf(df):
+  # Update labels
+  df['label'] = 1
+  labels = []
+  # 0 for General and 1 for Reserved.
+  for elem in df['Caste']:
+    if elem == 'GEN':
+      labels.append(0)
+    else:
+      labels.append(1)
+
+  df['label'] = labels
+    
+  df['Name'] = [str(name).strip() for name in df['Name']]
+  df['Name'] = [name.lower() for name in df['Name']]
+  return df
+
+def addFrequency(df):
+  df['general_freq'] = df['Name'].map(df[df['label']==0]['Name'].value_counts())
+  df['reserved_freq'] = df['Name'].map(df[df['label']==1]['Name'].value_counts())
+  return df
+
+def useMajorityLabel(df):
+  df['new_labels'] = 0.0
+  labels = []
+  for i, name in enumerate(df['Name']):
+    if np.isnan(df['general_freq'][i]) or df['reserved_freq'][i] > df['general_freq'][i]:
+      # labels.append(1) 1 for RESERVED
+      df.at[i,'new_labels'] = 1
+    else:
+      # labels.append(0) 0 for GENERAL
+      df.at[i,'new_labels'] = 0
+  return df
+
+def dropDuplicates(df):
+  df = df.drop_duplicates(subset='Name', keep='last')
+  df = df.reset_index(drop=True)
+  return df
+
 def AIEEECasteData():
   ai10 = pd.read_csv(AIEEE_2010_CSV)
   ai11 = pd.read_csv(AIEEE_2011_CSV)
@@ -25,7 +65,16 @@ def AIEEECasteData():
   caste_11 = getCaste(ai11, 'category')
   caste_09 = getCaste(ai09, 'category')
   caste_df = pd.concat([caste_09, caste_10, caste_11], ignore_index=True)
-  return caste_df
+  # Add Majority Label
+  caste_df = processDf(caste_df)
+  caste_df = addFrequency(caste_df)
+  caste_df = useMajorityLabel(caste_df)
+  caste_df = dropDuplicates(caste_df)
+  # print(caste_df.head(40))
+  final_df = pd.DataFrame()
+  final_df['Name'] = caste_df['Name']
+  final_df['Caste'] = caste_df['new_labels']
+  return final_df
 
 def vocab():
     alpha = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
@@ -44,7 +93,8 @@ def getIndexCaste(df, maxlen, file):
     char_index = dict((c, i) for i, c in enumerate(voc))
     # 0 for General.
     # 1 for Reserved.
-    caste_index = {'GEN':[1,0], 'OBC':[0,1], 'SC':[0,1], 'ST':[0,1]}
+    # caste_index = {'GEN':[1,0], 'OBC':[0,1], 'SC':[0,1], 'ST':[0,1]}
+    caste_index = {0:[1,0], 1:[0,1]}
 
     X = []
     Y = []
@@ -73,7 +123,7 @@ def getIndexCaste(df, maxlen, file):
             tmp.append(char_index["END"])
         X.append(tmp)
 
-        Y.append(caste_index[caste[i].upper().strip()])
+        Y.append(caste_index[int(caste[i])])
             
     return np.asarray(X), np.asarray(Y)
 
@@ -108,7 +158,8 @@ def getIndexCasteMarksState(df, maxlen, file):
     num = ['0','1','2','3','4','5','6','7','8','9']
     voc = voc + num
     char_index = dict((c, i) for i, c in enumerate(voc))
-    caste_index = {'GEN':[1.,0.], 'OBC':[0.,1.], 'SC':[0.,1.], 'ST':[0.,1.]}
+    # caste_index = {'GEN':[1.,0.], 'OBC':[0.,1.], 'SC':[0.,1.], 'ST':[0.,1.]}
+    caste_index = {0:[1.,0.], 1:[0.,1.]}
     
     X = []
     Y = []
@@ -145,7 +196,7 @@ def getIndexCasteMarksState(df, maxlen, file):
         X.append(tmp)
 
         Y.append(marks[i])
-        Y1.append(caste_index[caste[i].upper().strip()])
+        Y1.append(caste_index[int(caste[i])])
             
     return np.asarray(X), np.asarray(Y), np.asarray(Y1)
 
