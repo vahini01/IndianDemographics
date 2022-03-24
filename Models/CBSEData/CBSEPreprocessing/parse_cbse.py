@@ -55,3 +55,15 @@ def CBSEData():
   final_df['Name'] = cbse['Name']
   final_df['Gender'] = cbse['new_labels']
   return final_df
+
+def CBSEDataNew():
+  cbse14 = pd.read_csv(CBSE_2014, dtype=object, encoding= 'unicode_escape')
+  cbse15 = pd.read_csv(CBSE_2015, dtype=object, encoding= 'unicode_escape')
+  c14 = processDf(getParentsData(cbse14))
+  c15 = processDf(getParentsData(cbse15))
+  cbse = pd.concat([c14, c15], ignore_index=True)
+  # Use majority label
+  cbse = addFrequency(cbse)
+  cbse = useMajorityLabel(cbse)
+  cbse = dropDuplicates(cbse)
+  return cbse

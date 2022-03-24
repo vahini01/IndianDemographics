@@ -76,6 +76,40 @@ def AIEEECasteData():
   final_df['Caste'] = caste_df['new_labels']
   return final_df
 
+def AIEEECasteStateData():
+  states = pd.read_csv('Models/Data/AIEEEData/aieee_states.csv')
+  states = states.set_index('Code')
+  # Use 38 characters as length ( Name #state)
+  states['abbr'] = '00'
+  count = 0
+  for s in iter_all_strings():
+    states.abbr.iloc[count] = s
+    count += 1
+    if (count == 36):
+      break
+
+  dic = states.to_dict()
+  st = dic['abbr']
+
+  ai10 = pd.read_csv(AIEEE_2010_CSV)
+  ai11 = pd.read_csv(AIEEE_2011_CSV)
+  ai09 = pd.read_csv(AIEEE_2009_CSV)
+
+  cms_10 = getMarksCasteState(ai10, MAX_2010, st) 
+  cms_11 = getMarksCasteState(ai11, MAX_2011, st)
+  cms_09 = getMarksCasteState(ai09, MAX_2009, st)
+
+  casre_df = pd.concat([cms_10, cms_09, cms_11], ignore_index=True)
+  caste_df = processDf(caste_df)
+  caste_df = addFrequency(caste_df)
+  caste_df = useMajorityLabel(caste_df)
+  caste_df = dropDuplicates(caste_df)
+  # print(caste_df.head(40))
+  final_df = pd.DataFrame()
+  final_df['Name'] = caste_df['Name'] + caste_df['State']
+  final_df['Caste'] = caste_df['new_labels']
+  return final_df
+
 def vocab():
     alpha = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
     special = [' ']
