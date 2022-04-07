@@ -1,0 +1,502 @@
+,Unnamed: 0,Name,Gender,first_name,last_name,pred
+0,0,rajesh kantilal halpati,Male,rajesh,kantilal halpati,1
+1,1,dhodi dineshbhai babubhai,Male,dhodi,dineshbhai babubhai,1
+2,2,damyanti pareshkumar,Female,damyanti,pareshkumar,0
+3,3,solanki bharatiben bharat,Female,solanki,bharatiben bharat,0
+4,4,divyesh mahesh kamli,Male,divyesh,mahesh kamli,1
+5,5,mayuresh jha,Male,mayuresh,jha,1
+6,6,trivedi devashish shrikant,Male,trivedi,devashish shrikant,1
+7,7,khumukcham milanchandra,Male,khumukcham,milanchandra,1
+8,8,kirankumari salam,Female,kirankumari,salam,0
+9,9,hijam dayapati devi,Female,hijam,dayapati devi,0
+10,10,khaikhanlam,Male,khaikhanlam,,1
+11,11,huiningshumbam ingo singh,Male,huiningshumbam,ingo singh,1
+12,12,karishma chettri,Female,karishma,chettri,0
+13,13,ch. khangamchon,Female,ch.,khangamchon,0
+14,14,tekcham birjit meitei,Male,tekcham,birjit meitei,1
+15,15,ruqaiya maibam,Female,ruqaiya,maibam,0
+16,16,mainam analika,Female,mainam,analika,0
+17,17,keiriguliu,Female,keiriguliu,,0
+18,18,kaipanlinang,Male,kaipanlinang,,1
+19,19,md tamijuddin choudhury,Male,md,tamijuddin choudhury,1
+20,20,k p. rathingla,Female,k,p. rathingla,0
+21,21,kumam kenion singh,Male,kumam,kenion singh,1
+22,22,mangsidam monika,Female,mangsidam,monika,0
+23,23,rs kumtharla,Female,rs,kumtharla,0
+24,24,arambam sanathokpi,Female,arambam,sanathokpi,0
+25,25,sapam sanatombi devi,Female,sapam,sanatombi devi,0
+26,26,chingakham romita,Female,chingakham,romita,0
+27,27,t thuamkhanson,Male,t,thuamkhanson,1
+28,28,muhammad mustafa,Male,muhammad,mustafa,1
+29,29,hijam ratna chanu,Female,hijam,ratna chanu,0
+30,30,gongkulung kamei,Male,gongkulung,kamei,1
+31,31,boinao,Male,boinao,,1
+32,32,laimujam memmarei devi,Female,laimujam,memmarei devi,0
+33,33,wayenbam roni,Female,wayenbam,roni,0
+34,34,ningthoujam inaomu,Male,ningthoujam,inaomu,1
+35,35,p gabrel,Male,p,gabrel,1
+36,36,thangngaimang khongsai,Male,thangngaimang,khongsai,1
+37,37,laishram priyabati,Female,laishram,priyabati,0
+38,38,haova,Male,haova,,1
+39,39,irengbam memchoubi devi,Female,irengbam,memchoubi devi,0
+40,40,sw yarmipem,Female,sw,yarmipem,0
+41,41,manicshor thoudam,Male,manicshor,thoudam,1
+42,42,tongbram premchand singh,Male,tongbram,premchand singh,1
+43,43,nilbhadur,Male,nilbhadur,,1
+44,44,shougrakpam ranjit meitei,Male,shougrakpam,ranjit meitei,1
+45,45,irom dayananda,Male,irom,dayananda,1
+46,46,pheiroijam shila,Female,pheiroijam,shila,0
+47,47,sweety haobijam,Female,sweety,haobijam,0
+48,48,mayanglambam pocha singh,Male,mayanglambam,pocha singh,1
+49,49,sa. leiyachan,Female,sa.,leiyachan,0
+50,50,khumukcham newtonkumar,Male,khumukcham,newtonkumar,1
+51,51,konjengbam suresh meitei,Male,konjengbam,suresh meitei,1
+52,52,thangjam chorjit singh,Male,thangjam,chorjit singh,1
+53,53,weiyalam hangsing,Female,weiyalam,hangsing,0
+54,54,moirangthem ranibala,Female,moirangthem,ranibala,0
+55,55,k. ngaipi,Male,k.,ngaipi,0
+56,56,phusam lbeyai,Female,phusam,lbeyai,0
+57,57,sinam manglemjao,Male,sinam,manglemjao,1
+58,58,longjam (0) ibeyaima devi,Female,longjam,(0) ibeyaima devi,0
+59,59,singmila shimrah,Female,singmila,shimrah,0
+60,60,k. duchaoru,Female,k.,duchaoru,0
+61,61,yumnam khelendro(khelemba),Male,yumnam,khelendro(khelemba),1
+62,62,laishram ichal,Female,laishram,ichal,0
+63,63,moirangthem shubha,Female,moirangthem,shubha,0
+64,64,j kanari,Female,j,kanari,0
+65,65,james heiyam,Male,james,heiyam,1
+66,66,kangabam hemanta,Male,kangabam,hemanta,1
+67,67,khular luikham lamkang,Male,khular,luikham lamkang,0
+68,68,yumnam bidyasagar,Male,yumnam,bidyasagar,1
+69,69,khumanthem somen,Male,khumanthem,somen,1
+70,70,keisham manglem,Male,keisham,manglem,1
+71,71,gaibuanthui,Male,gaibuanthui,,1
+72,72,md warish ahamad,Male,md,warish ahamad,1
+73,73,khova,Male,khova,,1
+74,74,laxmi sitoula,Female,laxmi,sitoula,0
+75,75,longjam shyamasakhi,Female,longjam,shyamasakhi,0
+76,76,tingthiannem jenica neihsial,Female,tingthiannem,jenica neihsial,0
+77,77,khumallambam bino,Female,khumallambam,bino,0
+78,78,nianglyanching,Female,nianglyanching,,0
+79,79,ngamneo,Male,ngamneo,,1
+80,80,thengsagongpo malangmei,Male,thengsagongpo,malangmei,1
+81,81,shagolsem bibina devi,Female,shagolsem,bibina devi,0
+82,82,arambam jimmy singh,Male,arambam,jimmy singh,1
+83,83,thongtinmang kipgen,Male,thongtinmang,kipgen,1
+84,84,turim,Female,turim,,1
+85,85,heirtami sungoh,Male,heirtami,sungoh,1
+86,86,nightstar rangjem,Male,nightstar,rangjem,1
+87,87,other's  : barikynt| nongrum,Male,other's, : barikynt| nongrum,1
+88,88,memo shadap,Female,memo,shadap,0
+89,89,other's  : lina sun,Male,other's, : lina sun,1
+90,90,diman lapasam,Male,diman,lapasam,1
+91,91,robin mawblei,Male,robin,mawblei,1
+92,92,lebina kurbah,Female,lebina,kurbah,0
+93,93,tekkol m. sangma,Male,tekkol,m. sangma,1
+94,94,gullapson sangma,Male,gullapson,sangma,1
+95,95,shahara banu,Female,shahara,banu,0
+96,96,kyrshanbha suna,Male,kyrshanbha,suna,1
+97,97,mingrose nongkseh,Female,mingrose,nongkseh,0
+98,98,mandahun kharsohnoh,Female,mandahun,kharsohnoh,0
+99,99,other's  : sailetson marak,Female,other's, : sailetson marak,0
+100,100,joyfull mary mawlot,Female,joyfull,mary mawlot,0
+101,101,heimonme pohlong,Male,heimonme,pohlong,1
+102,102,sujata deb nath,Female,sujata,deb nath,0
+103,103,klatiborn suting,Female,klatiborn,suting,0
+104,104,carina vacmin,Female,carina,vacmin,0
+105,105,begreat r. marak,Male,begreat,r. marak,1
+106,106,other's  : majin marak,Male,other's, : majin marak,1
+107,107,thwai nongrang,Female,thwai,nongrang,0
+108,108,johnsis lyngdoh,Male,johnsis,lyngdoh,1
+109,109,jacinta masharing,Female,jacinta,masharing,0
+110,110,lissina khongsit,Female,lissina,khongsit,0
+111,111,manshing tamang,Male,manshing,tamang,1
+112,112,embha lyngdoh,Male,embha,lyngdoh,0
+113,113,mildaris l. sangriang,Female,mildaris,l. sangriang,0
+114,114,jwatbor sawian,Male,jwatbor,sawian,1
+115,115,jubina n. marak,Female,jubina,n. marak,0
+116,116,kitboklang thubru,Male,kitboklang,thubru,1
+117,117,naphisha langshiang,Female,naphisha,langshiang,0
+118,118,piles k. dkhar,Male,piles,k. dkhar,1
+119,119,matilda b. sangma,Female,matilda,b. sangma,0
+120,120,batsing rynjah,Male,batsing,rynjah,1
+121,121,menchilla d sangma,Female,menchilla,d sangma,0
+122,122,gretchilda marak,Male,gretchilda,marak,0
+123,123,lekulina sangma,Female,lekulina,sangma,0
+124,124,chaoba gondaime!,Male,chaoba,gondaime!,1
+125,125,babiangshisha kharbuli,Female,babiangshisha,kharbuli,0
+126,126,starling mawlieh,Male,starling,mawlieh,1
+127,127,esphorlin thongnibah,Male,esphorlin,thongnibah,0
+128,128,jmod kyrsian,Female,jmod,kyrsian,1
+129,129,mina dimchira d sangma,Female,mina,dimchira d sangma,0
+130,130,icynora nongkhlaw,Female,icynora,nongkhlaw,0
+131,131,ridien syiem,Female,ridien,syiem,0
+132,132,silginchi ch marak,Female,silginchi,ch marak,0
+133,133,kilart marak,Male,kilart,marak,1
+134,134,bringstarland mairom,Male,bringstarland,mairom,1
+135,135,gringrang a sangma,Male,gringrang,a sangma,1
+136,136,iarbi talang,Male,iarbi,talang,0
+137,137,fathers : nelson tyntral,Male,fathers,: nelson tyntral,0
+138,138,arlan mawlong,Male,arlan,mawlong,1
+139,139,m.serafia m.c indwar,Female,m.serafia,m.c indwar,0
+140,140,kmenlang sariang,Female,kmenlang,sariang,0
+141,141,alpina m marak,Female,alpina,m marak,0
+142,142,hamran wann,Male,hamran,wann,1
+143,143,larilin majaw,Female,larilin,majaw,0
+144,144,nangkyrshan kharmalki,Male,nangkyrshan,kharmalki,1
+145,145,amfull lymba,Male,amfull,lymba,1
+146,146,brik shadap-,Male,brik,shadap-,1
+147,147,kralling wahlang,Male,kralling,wahlang,1
+148,148,rikminchi r marak,Female,rikminchi,r marak,0
+149,149,plin makri,Female,plin,makri,0
+150,150,riwanki rymbai,Male,riwanki,rymbai,0
+151,151,aisohlang nongspung,Female,aisohlang,nongspung,0
+152,152,sempu sangma,Male,sempu,sangma,1
+153,153,roshni kumari thapa,Female,roshni,kumari thapa,0
+154,154,bijitra marak,Female,bijitra,marak,0
+155,155,wimdar thongni,Male,wimdar,thongni,1
+156,156,other's  : hanli mukhim,Male,other's, : hanli mukhim,1
+157,157,wanthehjingtngen,Female,wanthehjingtngen,,0
+158,158,toribha nongneng,Female,toribha,nongneng,0
+159,159,willtar sohtun,Male,willtar,sohtun,1
+160,160,donalroy nongsiej,Male,donalroy,nongsiej,1
+161,161,iarmi rabon,Male,iarmi,rabon,1
+162,162,munin barman,Male,munin,barman,1
+163,163,winning lyngdoh rngaid.,Male,winning,lyngdoh rngaid.,1
+164,164,pholmoti h. marak,Female,pholmoti,h. marak,0
+165,165,rattonsing sangma,Male,rattonsing,sangma,1
+166,166,patmi a sangma,Female,patmi,a sangma,0
+167,167,pyntngen pohswet,Female,pyntngen,pohswet,0
+168,168,partha bhowal,Male,partha,bhowal,1
+169,169,senjila ch marak,Female,senjila,ch marak,0
+170,170,mitilda lamurong,Female,mitilda,lamurong,0
+171,171,amthilda rani,Female,amthilda,rani,0
+172,172,kreny m. sangma,Female,kreny,m. sangma,0
+173,173,kwinlan muktieh,Female,kwinlan,muktieh,0
+174,174,leaderson wanniang,Male,leaderson,wanniang,1
+175,175,ioanis kahit,Male,ioanis,kahit,1
+176,176,wanbudmiki sungoh,Male,wanbudmiki,sungoh,1
+177,177,balsrang ch. momin,Male,balsrang,ch. momin,1
+178,178,jamen k sangma,Male,jamen,k sangma,1
+179,179,bankerlang pyrngai,Male,bankerlang,pyrngai,1
+180,180,other's  : mingdon momin,Female,other's, : mingdon momin,1
+181,181,riiakini suchiang,Female,riiakini,suchiang,0
+182,182,bainy phawa,Female,bainy,phawa,0
+183,183,luckcilla m marak,Female,luckcilla,m marak,0
+184,184,khakiye,Male,khakiye,,1
+185,185,hiareilungbe,Male,hiareilungbe,,1
+186,186,thinosinuo,Female,thinosinuo,,0
+187,187,medoneilie kruse,Male,medoneilie,kruse,1
+188,188,khupra,Male,khupra,,1
+189,189,izevi,Male,izevi,,1
+190,190,sangzui,Male,sangzui,,1
+191,191,tsapikiu,Male,tsapikiu,,1
+192,192,kesihhang jemu,Male,kesihhang,jemu,1
+193,193,dozolu,Female,dozolu,,0
+194,194,k vipeni futhena,Female,k,vipeni futhena,0
+195,195,yeshika kiho,Male,yeshika,kiho,1
+196,196,ningmo,Female,ningmo,,0
+197,197,shonka,Male,shonka,,0
+198,198,mariawilu newmai,Female,mariawilu,newmai,0
+199,199,l-chubanungla,Female,l-chubanungla,,0
+200,200,behin,Male,behin,,1
+201,201,chuhke!,Male,chuhke!,,0
+202,202,pungosulu yhobu,Female,pungosulu,yhobu,0
+203,203,naolam konyak,Female,naolam,konyak,0
+204,204,beinuo ezung,Female,beinuo,ezung,0
+205,205,suluvey] rhakho,Male,suluvey],rhakho,1
+206,206,kilangmerenla,Female,kilangmerenla,,0
+207,207,y minching,Female,y,minching,0
+208,208,bilitoshu,Female,bilitoshu,,0
+209,209,tangsei,Male,tangsei,,1
+210,210,neisasuu,Female,neisasuu,,0
+211,211,igumhangle,Female,igumhangle,,0
+212,212,senala,Female,senala,,0
+213,213,tsohuyi,Male,tsohuyi,,1
+214,214,pili,Male,pili,,0
+215,215,p langphong wanme!,Male,p,langphong wanme!,1
+216,216,saluto,Male,saluto,,1
+217,217,lovungi ovung,Female,lovungi,ovung,0
+218,218,tohuka awomi,Male,tohuka,awomi,1
+219,219,ramsalak,Female,ramsalak,,1
+220,220,peiwang konyak,Male,peiwang,konyak,1
+221,221,gamwang wangham,Male,gamwang,wangham,1
+222,222,sabita kumari singh,Female,sabita,kumari singh,0
+223,223,sombhu lama,Male,sombhu,lama,1
+224,224,yaniak ebiya,Female,yaniak,ebiya,0
+225,225,susmita bose,Female,susmita,bose,0
+226,226,anonto modi,Male,anonto,modi,1
+227,227,johny lipiangju,Male,johny,lipiangju,1
+228,228,rabi paik,Male,rabi,paik,1
+229,229,rinya basar bam,Female,rinya,basar bam,0
+230,230,bepi legu,Female,bepi,legu,0
+231,231,tachak neing,Male,tachak,neing,1
+232,232,mekhya nampe,Female,mekhya,nampe,0
+233,233,adit| gogoi,Female,adit|,gogoi,0
+234,234,mihin habung,Male,mihin,habung,1
+235,235,other's  : ebo miche,Female,other's, : ebo miche,0
+236,236,charu lotak,Male,charu,lotak,1
+237,237,loli taku,Male,loli,taku,1
+238,238,onung lego,Female,onung,lego,0
+239,239,igul yao,Female,igul,yao,0
+240,240,chakhin lowang,Female,chakhin,lowang,0
+241,241,taring bagap,Male,taring,bagap,1
+242,242,winmi namati,Male,winmi,namati,1
+243,243,tati darung,Male,tati,darung,1
+244,244,yali yomgam,Female,yali,yomgam,0
+245,245,other's  : ladong takin,Female,other's, : ladong takin,1
+246,246,sepali mandal,Female,sepali,mandal,0
+247,247,jibon borah,Male,jibon,borah,1
+248,248,gyamar mema,Female,gyamar,mema,0
+249,249,linde doke,Female,linde,doke,1
+250,250,keptak modi,Female,keptak,modi,0
+251,251,mousmi taku,Female,mousmi,taku,0
+252,252,matwang bo,Male,matwang,bo,1
+253,253,michi siniya,Female,michi,siniya,0
+254,254,anuj kumar singh,Male,anuj,kumar singh,1
+255,255,meena karmakar,Female,meena,karmakar,0
+256,256,lhakpa dorjee dorsom,Male,lhakpa,dorjee dorsom,1
+257,257,hirawati korowa,Female,hirawati,korowa,0
+258,258,giogi yaniu,Female,giogi,yaniu,0
+259,259,jolly taga,Male,jolly,taga,0
+260,260,ritu basoya,Female,ritu,basoya,0
+261,261,sukesh tiwari,Male,sukesh,tiwari,1
+262,262,amarjeet singh kochar,Male,amarjeet,singh kochar,1
+263,263,nirmala massey,Female,nirmala,massey,0
+264,264,yogita munglani,Female,yogita,munglani,0
+265,265,randhir jaiswal,Male,randhir,jaiswal,1
+266,266,ghansham dass gupta,Male,ghansham,dass gupta,1
+267,267,sabitri hati,Female,sabitri,hati,0
+268,268,nanhi bano,Female,nanhi,bano,0
+269,269,rajesh dhari singh,Male,rajesh,dhari singh,1
+270,270,md sadiqueen,Male,md,sadiqueen,1
+271,271,sagar bhardwaj,Male,sagar,bhardwaj,1
+272,272,nr paliwal,Male,nr,paliwal,1
+273,273,kanti mohan,Male,kanti,mohan,1
+274,274,vishnu priya pisipati,Female,vishnu,priya pisipati,0
+275,275,divya sadija,Female,divya,sadija,0
+276,276,poonam ekka,Female,poonam,ekka,0
+277,277,milan ray,Male,milan,ray,1
+278,278,mehrun begm,Female,mehrun,begm,0
+279,279,n ranjini,Female,n,ranjini,0
+280,280,shyam narain divedi,Male,shyam,narain divedi,1
+281,281,shlji joseph,Female,shlji,joseph,0
+282,282,sidharth gambhir,Male,sidharth,gambhir,1
+283,283,vidhyawanti khanna,Female,vidhyawanti,khanna,0
+284,284,other's  : teju thakur,Male,other's, : teju thakur,1
+285,285,mairazoo,Male,mairazoo,,0
+286,286,bangali majhi,Male,bangali,majhi,1
+287,287,shakra khatoon rizvi,Female,shakra,khatoon rizvi,0
+288,288,shakib ahamad,Male,shakib,ahamad,1
+289,289,kamalesh kumar yadav,Male,kamalesh,kumar yadav,1
+290,290,smriti sinha,Female,smriti,sinha,0
+291,291,kaj] sheed ahmad,Male,kaj],sheed ahmad,1
+292,292,prem chand sarwan,Male,prem,chand sarwan,1
+293,293,phulsara sharma,Female,phulsara,sharma,0
+294,294,nasrin parveen,Female,nasrin,parveen,0
+295,295,rikhikala bhandari,Female,rikhikala,bhandari,0
+296,296,komal jay ramnan,Male,komal,jay ramnan,0
+297,297,sandeep handoo,Male,sandeep,handoo,1
+298,298,md jamshed ali,Male,md,jamshed ali,1
+299,299,suraj bahadur thapa.,Male,suraj,bahadur thapa.,1
+300,300,jasvinder devgun,Male,jasvinder,devgun,1
+301,301,ram charan das,Male,ram,charan das,1
+302,302,om parkash narang,Male,om,parkash narang,1
+303,303,omana u pillai,Female,omana,u pillai,0
+304,304,brij pal singh rawat,Male,brij,pal singh rawat,1
+305,305,avantika kausal,Female,avantika,kausal,0
+306,306,khurashaid ansari,Male,khurashaid,ansari,1
+307,307,abdul bashar gazi,Male,abdul,bashar gazi,1
+308,308,shakeel warsi,Male,shakeel,warsi,1
+309,309,joe pipe,Male,joe,pipe,1
+310,310,jitendra awale,Male,jitendra,awale,1
+311,311,cuanda,Female,cuanda,,1
+312,312,sona devi rathore,Female,sona,devi rathore,0
+313,313,bhumanideen pal,Male,bhumanideen,pal,1
+314,314,devashree dasgupta,Female,devashree,dasgupta,0
+315,315,nikhil upreti,Male,nikhil,upreti,1
+316,316,ishan kumar,Male,ishan,kumar,1
+317,317,shafi qur rehman,Male,shafi,qur rehman,1
+318,318,chetna bhakri,Female,chetna,bhakri,0
+319,319,deepak parasar,Male,deepak,parasar,1
+320,320,anubhav maurya,Male,anubhav,maurya,1
+321,321,ishwar dutt balaudi,Male,ishwar,dutt balaudi,1
+322,322,joel jose,Male,joel,jose,1
+323,323,richa airi,Female,richa,airi,0
+324,324,ritesh paul,Male,ritesh,paul,1
+325,325,daleep singh pawat,Male,daleep,singh pawat,1
+326,326,partap singh bhaskar,Male,partap,singh bhaskar,1
+327,327,tanvi manocha,Female,tanvi,manocha,0
+328,328,shekhar sethi,Male,shekhar,sethi,1
+329,329,mathuri negi,Female,mathuri,negi,0
+330,330,sarojini mishra,Female,sarojini,mishra,0
+331,331,basanta thapa,Female,basanta,thapa,1
+332,332,adeeba noori,Female,adeeba,noori,0
+333,333,sukirti bali,Female,sukirti,bali,0
+334,334,wife's  : deepti srivastava,Male,wife's, : deepti srivastava,1
+335,335,mohammad zainool,Male,mohammad,zainool,1
+336,336,taz singh,Male,taz,singh,1
+337,337,mintu deka,Male,mintu,deka,1
+338,338,rameshwar swami,Male,rameshwar,swami,1
+339,339,vay laxmi sharma,Female,vay,laxmi sharma,0
+340,340,ajay sahrma,Male,ajay,sahrma,1
+341,341,sumitra thakur,Female,sumitra,thakur,0
+342,342,sunila kumar patel,Male,sunila,kumar patel,1
+343,343,parkash tate,Male,parkash,tate,1
+344,344,nish| gaur,Female,nish|,gaur,0
+345,345,rajeev bhartaya,Male,rajeev,bhartaya,1
+346,346,sandeep singh payal,Male,sandeep,singh payal,1
+347,347,puneet hans,Male,puneet,hans,1
+348,348,rishabh bharunt,Male,rishabh,bharunt,1
+349,349,dharam paul chawla,Male,dharam,paul chawla,1
+350,350,mohmmad halim,Male,mohmmad,halim,1
+351,351,raj banga,Female,raj,banga,0
+352,352,rama kant pathak,Male,rama,kant pathak,1
+353,353,katla devi,Female,katla,devi,0
+354,354,sanjay khurana,Male,sanjay,khurana,1
+355,355,nikhil bij,Male,nikhil,bij,1
+356,356,prateek ashu,Male,prateek,ashu,1
+357,357,chnadra prakash,Male,chnadra,prakash,1
+358,358,boon yavat phun chock,Male,boon,yavat phun chock,1
+359,359,mihir jha,Male,mihir,jha,1
+360,360,sweta kapoor,Female,sweta,kapoor,0
+361,361,zainab shahid,Female,zainab,shahid,0
+362,362,sangeeta wahi,Female,sangeeta,wahi,0
+363,363,mukand lal juneja,Male,mukand,lal juneja,1
+364,364,pramila sahu,Female,pramila,sahu,0
+365,365,kusum upadhyaya,Female,kusum,upadhyaya,0
+366,366,gourhari munian,Male,gourhari,munian,1
+367,367,sunil areja,Male,sunil,areja,1
+368,368,satya mehra,Female,satya,mehra,0
+369,369,nagarajan kannan,Male,nagarajan,kannan,1
+370,370,sabidra devi,Female,sabidra,devi,0
+371,371,raja sobti,Male,raja,sobti,1
+372,372,ajeet kr ahooja,Male,ajeet,kr ahooja,1
+373,373,gajiur rahaman,Male,gajiur,rahaman,1
+374,374,voshky chaudhary,Female,voshky,chaudhary,0
+375,375,barakat ullah,Male,barakat,ullah,1
+376,376,rashid akbar,Male,rashid,akbar,1
+377,377,enakshi bhat!,Female,enakshi,bhat!,0
+378,378,shrija devi,Female,shrija,devi,0
+379,379,skin mohammed,Male,skin,mohammed,1
+380,380,aikta arora,Female,aikta,arora,0
+381,381,anal meghpushp anil,Male,anal,meghpushp anil,1
+382,382,lag mani devi,Female,lag,mani devi,0
+383,383,binny k daniel,Male,binny,k daniel,1
+384,384,shantok singh,Male,shantok,singh,1
+385,385,kaushlya mishra,Female,kaushlya,mishra,0
+386,386,manoj rai,Male,manoj,rai,1
+387,387,mahender das,Male,mahender,das,1
+388,388,vanita bali,Female,vanita,bali,0
+389,389,naresh kumar pandey,Male,naresh,kumar pandey,1
+390,390,"akansha srivastva,",Female,akansha,"srivastva,",0
+391,391,satish dhairyasheel,Male,satish,dhairyasheel,1
+392,392,prabhneer singh,Male,prabhneer,singh,1
+393,393,mohd osama junaidi,Male,mohd,osama junaidi,1
+394,394,sada shivam,Male,sada,shivam,1
+395,395,shambhu podar,Male,shambhu,podar,1
+396,396,bali singh tomar,Male,bali,singh tomar,1
+397,397,ghanika,Female,ghanika,,0
+398,398,laxmi james,Female,laxmi,james,0
+399,399,anrudh garg,Male,anrudh,garg,1
+400,400,harshprabha kanojia,Female,harshprabha,kanojia,0
+401,401,kamal kumar gayen,Male,kamal,kumar gayen,1
+402,402,dimple dutt joshi,Female,dimple,dutt joshi,0
+403,403,dilip mahto,Male,dilip,mahto,1
+404,404,neha biswas,Female,neha,biswas,0
+405,405,ajimol abraham,Female,ajimol,abraham,0
+406,406,amay agarwal,Male,amay,agarwal,1
+407,407,sahnawaz begum,Female,sahnawaz,begum,0
+408,408,eliza bar,Female,eliza,bar,0
+409,409,hom singh baghela,Male,hom,singh baghela,1
+410,410,vikrant arya,Male,vikrant,arya,1
+411,411,dikka devi chauhan,Female,dikka,devi chauhan,0
+412,412,dolly amar puri,Female,dolly,amar puri,0
+413,413,yaklim fatma,Female,yaklim,fatma,0
+414,414,saurbh saxena,Male,saurbh,saxena,1
+415,415,chhandak bhattacharyy/,Male,chhandak,bhattacharyy/,1
+416,416,suvidha khatri,Female,suvidha,khatri,0
+417,417,falguni poddar,Female,falguni,poddar,0
+418,418,kalawati kansal,Female,kalawati,kansal,0
+419,419,m madhvi,Female,m,madhvi,0
+420,420,gorelal vishwakarma _,Male,gorelal,vishwakarma _,1
+421,421,aita maya subba / limboo,Female,aita,maya subba / limboo,0
+422,422,reshma lohagun,Female,reshma,lohagun,0
+423,423,mima doma sherpa,Female,mima,doma sherpa,0
+424,424,woser nyinje sherpa,Male,woser,nyinje sherpa,1
+425,425,parasher sharma,Male,parasher,sharma,1
+426,426,puja karki,Female,puja,karki,0
+427,427,sandya subba,Female,sandya,subba,0
+428,428,leome lepcha,Female,leome,lepcha,0
+429,429,tashi chopel bhutia,Male,tashi,chopel bhutia,1
+430,430,yuwa raj pradhan,Male,yuwa,raj pradhan,1
+431,431,mangal kumari subba,Female,mangal,kumari subba,0
+432,432,tanuja kakodkar,Female,tanuja,kakodkar,0
+433,433,sudesh kolvekar,Male,sudesh,kolvekar,1
+434,434,yamanur goudappa hiregoudar,Male,yamanur,goudappa hiregoudar,1
+435,435,shaikh arbiya bi,Female,shaikh,arbiya bi,0
+436,436,deepak kumar yadav,Male,deepak,kumar yadav,1
+437,437,gavrah fernandes,Female,gavrah,fernandes,0
+438,438,francisco arun xavier,Male,francisco,arun xavier,1
+439,439,lawrence s. r. d'mello,Male,lawrence,s. r. d'mello,1
+440,440,suvarna angadi,Female,suvarna,angadi,0
+441,441,uramila gaonkar,Female,uramila,gaonkar,0
+442,442,alexandra a.m. almeida,Male,alexandra,a.m. almeida,1
+443,443,seema s. chari,Female,seema,s. chari,0
+444,444,sayyed mokashi,Male,sayyed,mokashi,1
+445,445,leocadia valetina da costa,Female,leocadia,valetina da costa,0
+446,446,amba naresh meettal,Female,amba,naresh meettal,0
+447,447,kajal raut,Female,kajal,raut,0
+448,448,mita manikrao shirodkar,Female,mita,manikrao shirodkar,0
+449,449,alifton pereira,Male,alifton,pereira,1
+450,450,p. srinivas reddy,Male,p.,srinivas reddy,1
+451,451,chandrashekar manegar,Male,chandrashekar,manegar,1
+452,452,ankita marvi,Female,ankita,marvi,0
+453,453,abdul sattar hudkarli,Male,abdul,sattar hudkarli,1
+454,454,minu vaidya,Female,minu,vaidya,0
+455,455,umakant kankonkar,Male,umakant,kankonkar,1
+456,456,joseph xavier gonsalves,Male,joseph,xavier gonsalves,1
+457,457,arelson casty dias,Male,arelson,casty dias,1
+458,458,s.s.anu -,Male,s.s.anu,-,0
+459,459,shamba kolhapurkar,Male,shamba,kolhapurkar,1
+460,460,sahil dangui,Male,sahil,dangui,1
+461,461,sapana g. kamat,Female,sapana,g. kamat,0
+462,462,sandesh nagesh phadte,Male,sandesh,nagesh phadte,1
+463,463,cliffton crasto,Male,cliffton,crasto,1
+464,464,suzeta pires,Female,suzeta,pires,0
+465,465,ramesh aatram,Male,ramesh,aatram,1
+466,466,janmita agrawal,Female,janmita,agrawal,0
+467,467,ramesh kasarlekar,Male,ramesh,kasarlekar,1
+468,468,anwar momin,Male,anwar,momin,1
+469,469,utppanni savio chodanker,Female,utppanni,savio chodanker,0
+470,470,yashodabai bablo alornekar,Female,yashodabai,bablo alornekar,0
+471,471,lalbi shaikh,Female,lalbi,shaikh,0
+472,472,gurudas pagi,Male,gurudas,pagi,1
+473,473,devodita sairina pereira e,Female,devodita,sairina pereira e,0
+474,474,dinesh bishnoi,Male,dinesh,bishnoi,1
+475,475,lester bosco castelino,Male,lester,bosco castelino,1
+476,476,geeta kurthekoti,Female,geeta,kurthekoti,0
+477,477,hanuman purohit,Male,hanuman,purohit,1
+478,478,vithu bavdan,Male,vithu,bavdan,1
+479,479,jyoti thapa,Female,jyoti,thapa,0
+480,480,ghanashyam fadte,Male,ghanashyam,fadte,1
+481,481,v.l.tawka,Male,v.l.tawka,,1
+482,482,h. beitlolai,Male,h.,beitlolai,1
+483,483,dimkhanliani,Female,dimkhanliani,,0
+484,484,v. l. saronpari,Female,v.,l. saronpari,0
+485,485,z.d. lalhmachhuana,Male,z.d.,lalhmachhuana,1
+486,486,zamsianthanga,Male,zamsianthanga,,1
+487,487,rotawna,Male,rotawna,,1
+488,488,isaac lalruatpuia,Male,isaac,lalruatpuia,1
+489,489,baled joyti chakma,Male,baled,joyti chakma,1
+490,490,mc. rothangzuala,Male,mc.,rothangzuala,1
+491,491,josia lalramchhana,Male,josia,lalramchhana,1
+492,492,r lalmuanawma,Male,r,lalmuanawma,1
+493,493,mormori,Female,mormori,,0
+494,494,rebecca lalduhawmi fanai,Female,rebecca,lalduhawmi fanai,0
+495,495,h. siangnawla,Male,h.,siangnawla,1
+496,496,alaw dhar chakma,Male,alaw,dhar chakma,1
+497,497,hmangaihsangi royte,Female,hmangaihsangi,royte,0
+498,498,rajkumar shahi,Male,rajkumar,shahi,1
+499,499,k.lalrodinga,Male,k.lalrodinga,,1
+500,500,rinhlupuii renthlei,Female,rinhlupuii,renthlei,0

@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*SavedModel*
+*__pycache__*
+*Models/Data/ERData*
+*/Data/*
+
